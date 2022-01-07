@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CaptainObi
 - 👀 I’m interested in TS, Rust, Go, Ruby, Kotlin
-- 🌱 I’m currently learning Go
+- 🌱 I’m currently learning Rust
 - 📫 How to reach me captainobi.mrt@gmail.com or CaptainObi#3805
 
 <!---
